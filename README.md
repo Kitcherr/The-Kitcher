@@ -6,7 +6,7 @@ Kitcher, çok yönlü bir tarif sitesidir. son çalışmalarımız ve kodlarım�
 En son yapılan değişiklikler:
 
 Elif:
-*ana sayfa tasarımı tekrar elden geçirildi, daha düzgün.
+* ana sayfa tasarımı tekrar elden geçirildi, daha düzgün.
 
 Soltan:
 * (kendi ilerlemeni yaz)
